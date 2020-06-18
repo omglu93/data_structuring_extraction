@@ -11,11 +11,11 @@ The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github
 
 The questions I want to answer are:
 
-What is the lowest income over time?
-What is the highest income over time?
-When are the most opportunities open and what are the general deadlines?
-What are the most paid jobs and least paid jobs in LA?
-What are the most frequent tasks in the selection process?
+- What is the lowest income over time?
+- What is the highest income over time?
+- When are the most opportunities open and what are the general deadlines?
+- What are the most paid jobs and least paid jobs in LA?
+- What are the most frequent tasks in the selection process?
 
 # Primary goal : TF-IDF
 
