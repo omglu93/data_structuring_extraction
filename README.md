@@ -21,7 +21,7 @@ The questions I want to answer are:
 
 After completing the exploratory analysis the primary goal is to construct a similarity function to find similar jobs to the one selected. The similarity function was created using a TfidfVectorizer from the sklearn library. This class converts the selected documents into a TF-IDF matrix. TF-IDF term frequency–inverse document frequency is often used in numerical statistics to determine the importance of words. Its most frequent use is in search engines where it is used to score and rank documents based on the user's query. In this particular case, the function using TF-IDF will find the most similar job for the one selected.
 
-# Secondary goal : 
+# Secondary goal : Flesch-Kincaid readability
 
 The secondary goal is to create a Flesch-Kincaid readability test using the requirements and duties collected from the textual data. The test is used to determine how difficult a passage in English is to understand. In this case, we are going to use the Flesch–Kincaid Grade Level.
 
