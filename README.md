@@ -3,7 +3,7 @@
 
 The goal of the project is to structure the textual data from over 600 individual job postings into a tabular dataset. Upon the completion of the structuring and cleaning of the dataset, an exploratory analysis will be undertaken to gather and visualize any possible insights.
 
-The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github/omglu93/boston_crime_EDA/blob/master/boston-crime-eda-1-3.ipynb).
+The complete notebook can be accessed [here](https://nbviewer.jupyter.org/github/omglu93/data_structuring_extraction/blob/master/losangl_data.ipynb).
 
 ![los](images/los-angeles-skyline.jpg)
 
